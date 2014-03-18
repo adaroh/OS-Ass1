@@ -15,3 +15,8 @@ OS-Ass1
 * third year student of Computer Science  
 
 this is our octocat(http://octodex.github.com/steroidtocat)
+
+
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute
