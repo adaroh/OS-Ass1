@@ -1,15 +1,13 @@
 The-humus-project :  *Ass1*
 =========================
 
-##Tal levi:
-============
+##Tal levi -   
 - 22 years old  
 - lives in Netivot  
 - fourth year student of Software Engineering  
 __*My email:*__  
 
-##Adar Ohana:
-==============
+##Adar Ohana -   
 * 27 years old  
 * lives in Metar  
 * third year student of Computer Science  
