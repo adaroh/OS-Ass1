@@ -15,5 +15,5 @@ OS-Ass1
 * third year student of Computer Science  
 
 This is our __octocat__ ![Alt text] (http://octodex.github.com/images/steroidtocat.png)   
-To get the source image [click her](http://octodex.github.com/steroidtocat)
+To get the source click on the image or [click her](http://octodex.github.com/steroidtocat)
 
