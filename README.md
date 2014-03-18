@@ -14,5 +14,5 @@ __*My email:*__
 __*My email:*__ adaroha@post.bgu.ac.il
 
 This is our __octocat__ ![Alt text] (http://octodex.github.com/images/steroidtocat.png)   
-To get the image source click on the image __or__ ___[click her](http://octodex.github.com/steroidtocat)___
+To get the image source click on the image __or__ ___[click her](http://octodex.github.com/images/steroidtocat.png)___
 
