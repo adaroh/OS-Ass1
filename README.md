@@ -14,5 +14,5 @@ OS-Ass1
 * lives in Metar  
 * third year student of Computer Science  
 
-To see our octocat [click her](http://octodex.github.com/steroidtocat)
+To see our __octocat__ [click her](http://octodex.github.com/steroidtocat)
 
